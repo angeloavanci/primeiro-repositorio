@@ -6,3 +6,7 @@
 - Subir arquivos e diretórios 🖥️⏫;
 - Clonar repositórios 🖥️⏬;
 - Resolver conflitos ❌.
+
+-------------------------------------------------------------------------------------------------------------------
+
+-  Primeira alteração para o projeto da DIO _(digital innovation one)_.
